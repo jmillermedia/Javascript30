@@ -3,7 +3,7 @@
 # #Javascript30:
 30 Day Vanilla JavaScript Coding Challenge: 30 Days, 30 Projects, Vanilla JavaScript with minor HTML & CSS.
 
-Read branch commit notes on GitHub for any addtions and/or from the lesson.
+Read branch commit notes on GitHub for any additions and/or changes from the lesson.
 
 ## Resources:
 Main repo assets, README.MD banner, and course instruction taken from: [Javascript 30 days, 30 pages challenge.](https://javascript30.com/ 'JavaScript30.com')
